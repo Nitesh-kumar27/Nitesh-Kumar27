@@ -5,7 +5,10 @@
 ![C Language](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=nitesh-kumar27&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitesh-kumar27&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh-kumar27&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **Nitesh-kumar27/Nitesh-Kumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
