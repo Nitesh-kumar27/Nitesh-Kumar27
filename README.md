@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" height="40" alt="photoshop logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
