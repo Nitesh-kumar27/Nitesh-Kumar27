@@ -90,7 +90,7 @@
 
 <!--
 **Nitesh-kumar27/Nitesh-Kumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
