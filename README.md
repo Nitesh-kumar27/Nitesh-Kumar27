@@ -16,7 +16,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+
+<div align="left" style="background-color: #f5f5dc; ">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="android logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
